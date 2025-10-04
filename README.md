@@ -1,3 +1,5 @@
+To improve my PC and continue offering free scripts: https://ko-fi.com/riversafe33
+
 📜 Available Server Commands
 
 - /witness → Notify the Sheriffs that you’re about to commit a crime
