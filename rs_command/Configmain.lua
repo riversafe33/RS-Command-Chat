@@ -1,7 +1,7 @@
 Configmain = {}
 
 Configmain.ChatAutoFade = { -- Use this if you are using the native CFX chat
-    Enabled = true,         -- true = enabled only whith native CFX chat,
+    Enabled = false,         -- true = enabled only whith native CFX chat,
     FadeTimeSeconds = 5     -- time the chat remains visible after a message
 }
 
